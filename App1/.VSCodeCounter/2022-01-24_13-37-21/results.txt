@@ -1,0 +1,95 @@
+Date : 2022-01-24 13:37:21
+Directory : c:\Users\joach\Desktop\xf10\App1
+Total : 51 files,  4257 codes, 2262 comments, 2299 blanks, all 8818 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| C#       |         30 |      3,264 |      2,165 |      2,269 |      7,698 |
+| XML      |         20 |        876 |         97 |         30 |      1,003 |
+| JSON     |          1 |        117 |          0 |          0 |        117 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++-------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                            | files      | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                               |         51 |      4,257 |      2,262 |      2,299 |      8,818 |
+| App1                                                                                            |         51 |      4,257 |      2,262 |      2,299 |      8,818 |
+| App1\App1                                                                                       |         26 |        754 |         68 |         88 |        910 |
+| App1\App1.Android                                                                               |         10 |      2,906 |      2,095 |      2,182 |      7,183 |
+| App1\App1.Android\Properties                                                                    |          2 |         23 |         10 |          5 |         38 |
+| App1\App1.Android\Resources                                                                     |          5 |      2,764 |      2,085 |      2,173 |      7,022 |
+| App1\App1.Android\Resources\mipmap-anydpi-v26                                                   |          2 |         10 |          0 |          0 |         10 |
+| App1\App1.Android\Resources\values                                                              |          2 |         12 |         11 |          3 |         26 |
+| App1\App1.UWP                                                                                   |          8 |        258 |         68 |         20 |        346 |
+| App1\App1.UWP\Properties                                                                        |          2 |         19 |         34 |          7 |         60 |
+| App1\App1.iOS                                                                                   |          7 |        339 |         31 |          9 |        379 |
+| App1\App1.iOS\Assets.xcassets                                                                   |          1 |        117 |          0 |          0 |        117 |
+| App1\App1.iOS\Assets.xcassets\AppIcon.appiconset                                                |          1 |        117 |          0 |          0 |        117 |
+| App1\App1.iOS\Properties                                                                        |          1 |         15 |         17 |          5 |         37 |
+| App1\App1.iOS\Resources                                                                         |          1 |         38 |          1 |          1 |         40 |
+| App1\App1\Models                                                                                |          1 |          7 |          0 |          1 |          8 |
+| App1\App1\Services                                                                              |          2 |         52 |          0 |         12 |         64 |
+| App1\App1\ViewModels                                                                            |          6 |        213 |          4 |         37 |        254 |
+| App1\App1\Views                                                                                 |         10 |        258 |          4 |         18 |        280 |
++-------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                        | language | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\joach\Desktop\xf10\App1\App1\App1.Android\App1.Android.csproj                          | XML      |         98 |          0 |          0 |         98 |
+| c:\Users\joach\Desktop\xf10\App1\App1\App1.Android\MainActivity.cs                              | C#       |         17 |          0 |          3 |         20 |
+| c:\Users\joach\Desktop\xf10\App1\App1\App1.Android\Properties\AndroidManifest.xml               | XML      |          6 |          0 |          1 |          7 |
+| c:\Users\joach\Desktop\xf10\App1\App1\App1.Android\Properties\AssemblyInfo.cs                   | C#       |         17 |         10 |          4 |         31 |
+| c:\Users\joach\Desktop\xf10\App1\App1\App1.Android\Resources\Resource.designer.cs               | C#       |      2,742 |      2,074 |      2,170 |      6,986 |
+| c:\Users\joach\Desktop\xf10\App1\App1\App1.Android\Resources\mipmap-anydpi-v26\icon.xml         | XML      |          5 |          0 |          0 |          5 |
+| c:\Users\joach\Desktop\xf10\App1\App1\App1.Android\Resources\mipmap-anydpi-v26\icon_round.xml   | XML      |          5 |          0 |          0 |          5 |
+| c:\Users\joach\Desktop\xf10\App1\App1\App1.Android\Resources\values\colors.xml                  | XML      |          7 |          0 |          1 |          8 |
+| c:\Users\joach\Desktop\xf10\App1\App1\App1.Android\Resources\values\styles.xml                  | XML      |          5 |         11 |          2 |         18 |
+| c:\Users\joach\Desktop\xf10\App1\App1\App1.Android\Usings.cs                                    | C#       |          4 |          0 |          1 |          5 |
+| c:\Users\joach\Desktop\xf10\App1\App1\App1.UWP\App.xaml                                         | XML      |          5 |          0 |          0 |          5 |
+| c:\Users\joach\Desktop\xf10\App1\App1\App1.UWP\App.xaml.cs                                      | C#       |         44 |         34 |         10 |         88 |
+| c:\Users\joach\Desktop\xf10\App1\App1\App1.UWP\App1.UWP.csproj                                  | XML      |        166 |          0 |          0 |        166 |
+| c:\Users\joach\Desktop\xf10\App1\App1\App1.UWP\MainPage.xaml                                    | XML      |          9 |          0 |          1 |         10 |
+| c:\Users\joach\Desktop\xf10\App1\App1\App1.UWP\MainPage.xaml.cs                                 | C#       |          9 |          0 |          2 |         11 |
+| c:\Users\joach\Desktop\xf10\App1\App1\App1.UWP\Properties\AssemblyInfo.cs                       | C#       |         14 |         13 |          2 |         29 |
+| c:\Users\joach\Desktop\xf10\App1\App1\App1.UWP\Properties\Default.rd.xml                        | XML      |          5 |         21 |          5 |         31 |
+| c:\Users\joach\Desktop\xf10\App1\App1\App1.UWP\Usings.cs                                        | C#       |          6 |          0 |          0 |          6 |
+| c:\Users\joach\Desktop\xf10\App1\App1\App1.iOS\App1.iOS.csproj                                  | XML      |        147 |          0 |          0 |        147 |
+| c:\Users\joach\Desktop\xf10\App1\App1\App1.iOS\AppDelegate.cs                                   | C#       |         11 |         10 |          2 |         23 |
+| c:\Users\joach\Desktop\xf10\App1\App1\App1.iOS\Assets.xcassets\AppIcon.appiconset\Contents.json | JSON     |        117 |          0 |          0 |        117 |
+| c:\Users\joach\Desktop\xf10\App1\App1\App1.iOS\Main.cs                                          | C#       |          8 |          3 |          1 |         12 |
+| c:\Users\joach\Desktop\xf10\App1\App1\App1.iOS\Properties\AssemblyInfo.cs                       | C#       |         15 |         17 |          5 |         37 |
+| c:\Users\joach\Desktop\xf10\App1\App1\App1.iOS\Resources\LaunchScreen.storyboard                | XML      |         38 |          1 |          1 |         40 |
+| c:\Users\joach\Desktop\xf10\App1\App1\App1.iOS\Usings.cs                                        | C#       |          3 |          0 |          0 |          3 |
+| c:\Users\joach\Desktop\xf10\App1\App1\App1\App.xaml                                             | XML      |         36 |          3 |          0 |         39 |
+| c:\Users\joach\Desktop\xf10\App1\App1\App1\App.xaml.cs                                          | C#       |         19 |          0 |          7 |         26 |
+| c:\Users\joach\Desktop\xf10\App1\App1\App1\App1.csproj                                          | XML      |         11 |          0 |          2 |         13 |
+| c:\Users\joach\Desktop\xf10\App1\App1\App1\AppShell.xaml                                        | XML      |        127 |         57 |          9 |        193 |
+| c:\Users\joach\Desktop\xf10\App1\App1\App1\AppShell.xaml.cs                                     | C#       |         14 |          0 |          2 |         16 |
+| c:\Users\joach\Desktop\xf10\App1\App1\App1\AssemblyInfo.cs                                      | C#       |          1 |          0 |          0 |          1 |
+| c:\Users\joach\Desktop\xf10\App1\App1\App1\Models\Item.cs                                       | C#       |          7 |          0 |          1 |          8 |
+| c:\Users\joach\Desktop\xf10\App1\App1\App1\Services\IDataStore.cs                               | C#       |          9 |          0 |          2 |         11 |
+| c:\Users\joach\Desktop\xf10\App1\App1\App1\Services\MockDataStore.cs                            | C#       |         43 |          0 |         10 |         53 |
+| c:\Users\joach\Desktop\xf10\App1\App1\App1\Usings.cs                                            | C#       |         16 |          0 |          0 |         16 |
+| c:\Users\joach\Desktop\xf10\App1\App1\App1\ViewModels\AboutViewModel.cs                         | C#       |         10 |          0 |          2 |         12 |
+| c:\Users\joach\Desktop\xf10\App1\App1\App1\ViewModels\BaseViewModel.cs                          | C#       |         38 |          0 |          7 |         45 |
+| c:\Users\joach\Desktop\xf10\App1\App1\App1\ViewModels\ItemDetailViewModel.cs                    | C#       |         45 |          0 |          5 |         50 |
+| c:\Users\joach\Desktop\xf10\App1\App1\App1\ViewModels\ItemsViewModel.cs                         | C#       |         62 |          1 |         11 |         74 |
+| c:\Users\joach\Desktop\xf10\App1\App1\App1\ViewModels\LoginViewModel.cs                         | C#       |         13 |          1 |          3 |         17 |
+| c:\Users\joach\Desktop\xf10\App1\App1\App1\ViewModels\NewItemViewModel.cs                       | C#       |         45 |          2 |          9 |         56 |
+| c:\Users\joach\Desktop\xf10\App1\App1\App1\Views\AboutPage.xaml                                 | XML      |         74 |          0 |          4 |         78 |
+| c:\Users\joach\Desktop\xf10\App1\App1\App1\Views\AboutPage.xaml.cs                              | C#       |          8 |          0 |          2 |         10 |
+| c:\Users\joach\Desktop\xf10\App1\App1\App1\Views\ItemDetailPage.xaml                            | XML      |         23 |          0 |          2 |         25 |
+| c:\Users\joach\Desktop\xf10\App1\App1\App1\Views\ItemDetailPage.xaml.cs                         | C#       |          9 |          0 |          1 |         10 |
+| c:\Users\joach\Desktop\xf10\App1\App1\App1\Views\ItemsPage.xaml                                 | XML      |         49 |          4 |          1 |         54 |
+| c:\Users\joach\Desktop\xf10\App1\App1\App1\Views\ItemsPage.xaml.cs                              | C#       |         15 |          0 |          4 |         19 |
+| c:\Users\joach\Desktop\xf10\App1\App1\App1\Views\LoginPage.xaml                                 | XML      |         20 |          0 |          0 |         20 |
+| c:\Users\joach\Desktop\xf10\App1\App1\App1\Views\LoginPage.xaml.cs                              | C#       |         10 |          0 |          1 |         11 |
+| c:\Users\joach\Desktop\xf10\App1\App1\App1\Views\NewItemPage.xaml                               | XML      |         40 |          0 |          1 |         41 |
+| c:\Users\joach\Desktop\xf10\App1\App1\App1\Views\NewItemPage.xaml.cs                            | C#       |         10 |          0 |          2 |         12 |
+| Total                                                                                           |          |      4,257 |      2,262 |      2,299 |      8,818 |
++-------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
